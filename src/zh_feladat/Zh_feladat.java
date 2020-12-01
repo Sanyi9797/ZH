@@ -15,7 +15,10 @@ public class Zh_feladat {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+       int i=2020;
+       int szulkor = 1997;
+       int eletkor = i-szulkor;
+        System.out.println("Hány éves vagy: "+eletkor);
     }
     
 }
